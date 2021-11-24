@@ -1,0 +1,17 @@
+body {
+
+background-color: rgb(75, 6, 44);
+
+}
+p,h1   
+{
+  color: rgb(255, 255, 255);
+}
+
+.container
+ {
+   position: relative;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+}
